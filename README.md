@@ -8,4 +8,4 @@ HOW TO RUN THE PROGRAM
 
 Configuration used to Program
 1. nodejs 16.5.0
-2. npm 5.6.0
+2. npm 7.19.1
