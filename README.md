@@ -2,7 +2,7 @@
 
 HOW TO RUN THE PROGRAM
 1. git clone --> https://github.com/TharinduPeiris/mars_rover_challenge
-2. go to path Command Line
+2. go to file path Command Line (cd mars_rover_challenge)
 3. npm intall
 4. npm start
 
